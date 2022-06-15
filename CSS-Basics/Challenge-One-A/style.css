@@ -1,0 +1,22 @@
+body{
+  background-color:#FFB562;
+}
+
+#wrap{
+  background-color:#F9F2ED;
+  text-align: center;
+  border-style:dotted;
+}
+
+h1{
+ border-bottom-style: dotted;
+ font-style: italic;
+}
+
+ul{
+  list-style-type: none;
+}
+li::first-letter{
+  text-transform: capitalize;
+  font-size: 25px;
+}
